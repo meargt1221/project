@@ -1,0 +1,16 @@
+ul {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+li{
+    width: 90px;
+    height: 90px;
+    font-size: 80px;
+    margin: 5px;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    float: right;
+}
